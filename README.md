@@ -29,9 +29,14 @@ jupyter notebook
 ![image](assets/特征解释.png)
 
 ## 文件目录
-
+```
+.
 ├── 计科2103王贺麟202112085.docx
 ├── 计科2103王贺麟202112085.pptx
+├── assets
+│   ├── 调最大深度.png
+│   ├── 特征解释.png
+│   └── 效果.png
 ├── cardio_train.csv
 ├── cardio_zscore.csv
 ├── decision_tree_origin.png
@@ -41,8 +46,9 @@ jupyter notebook
 ├── logs.log
 ├── my_data.csv
 ├── my_data.xlsx
-└── README.md
-
+├── README.md
+└── tree.ipynb
+```
 0 directories, 12 files
 
 如果觉得有帮助，请点个star 🌟 
